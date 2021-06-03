@@ -1,0 +1,4 @@
+source /home/home4/pmilder/ese507/.cshrc.cad
+vlog branch_prediction_correlated.sv byte_op.sv decode.sv dependence.sv floating_point.sv forwarding_unit.sv instruction_cache_0.sv instruction_cache_1.sv instruction_cache_2.sv instruction_cache_3.sv issue.sv permute.sv processor0.sv processor1.sv processor2.sv processor3.sv register.sv scoreboard.sv simple_fixed_1.sv simple_fixed_2.sv arbitrator.sv sync_fifo.sv memory.sv write_back_cache.sv whole_design.sv branch.sv test_whole_design_processor.sv
+
+

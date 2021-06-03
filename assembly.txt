@@ -1,0 +1,39 @@
+lqd 1,0,0
+lqd 2,0,1
+lqd 3,0,2
+lqd 4,0,3
+lqd 5,0,8
+lqd 6,0,9
+lqd 7,0,10
+lqd 8,0,11
+add 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+fm 9,1,5
+fma 10,2,6,9
+fma 11,3,7,10
+fma 12,4,8,11
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+nop 0,0,0
+stqd 12,0,21
+lqx 21,0,20
+stop
+
+
+
